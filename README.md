@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%"/>
+  <img src="./github-header-image.png" alt="Banner" width="100%"/>
 </p>
 
 # Hi 👋, I'm Yash Kumar Singh
