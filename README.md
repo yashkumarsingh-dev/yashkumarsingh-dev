@@ -1,7 +1,6 @@
-<!-- Banner image placeholder -->
+<!-- Banner image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashkumarsingh-dev/yashkumarsingh-dev/main/banner.png" alt="Banner" width="100%"/>
-  <!-- Replace the above URL with your custom banner if you have one -->
+  <img src="./banner.png" alt="Banner" width="100%"/>
 </p>
 
 # Hi 👋, I'm Yash Kumar Singh
