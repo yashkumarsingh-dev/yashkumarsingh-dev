@@ -14,7 +14,7 @@ A passionate developer from India
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on exciting web and software projects.
+- 🔭 I’m currently working as a Trainee Software Developer at Rana Informatics Private Limited.
 - 🌱 I’m currently learning advanced JavaScript, React, and backend technologies.
 - 👯 I’m looking to collaborate on open-source and innovative projects.
 - 💬 Ask me about web development, JavaScript, and problem solving.
