@@ -47,7 +47,7 @@ A passionate developer from India
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashkumarsingh-dev&show_icons=true&locale=en" alt="yashkumarsingh-dev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumarsingh-dev" alt="yashkumarsingh-dev" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumarsingh-dev" alt="yashkumarsingh-dev" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashkumarsingh-dev&show_icons=true&locale=en&layout=compact" alt="yashkumarsingh-dev" />
 </p>
 
